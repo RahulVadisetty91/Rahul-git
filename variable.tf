@@ -31,10 +31,10 @@ variable "ami_id" {
 
 // Variables for providers used in this modul
 variable "aws_access_key" {
-default = "AKIAJZBXO2H3URRT3TDA"
+default = "AKIAJN6J62AXY7LOV6SA"
 }
 variable "aws_secret_key" {
-default = "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"
+default = "MuP5r11z9rlnVxeqv4lahazInxci4sBZDATI532B"
 }
 variable "aws_region" {
 default = "us-east-1"
